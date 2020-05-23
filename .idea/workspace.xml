@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822c403e-4d48-416f-8728-72d63d502ec3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cars.rhodonitestore.com" />
+  </component>
+  <component name="ProjectId" id="1ZJgHv4GEsInPMoiq5yv31VR88L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1588601059071" text="featured" recursive="true" caseInsensitive="false" type="PHP" scope_type="PROJECT" scope_descriptor="" history="1">
+      <constraint name="__context__" within="" contains="" />
+    </searchConfiguration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822c403e-4d48-416f-8728-72d63d502ec3" name="Default Changelist" comment="" />
+      <created>1584562533490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584562533490</updated>
+      <workItem from="1584562545446" duration="14857000" />
+      <workItem from="1584612045640" duration="15624000" />
+      <workItem from="1584885650748" duration="2157000" />
+      <workItem from="1585048438503" duration="19722000" />
+      <workItem from="1587493601527" duration="6033000" />
+      <workItem from="1587567179399" duration="4002000" />
+      <workItem from="1587587903860" duration="7292000" />
+      <workItem from="1587654676543" duration="23543000" />
+      <workItem from="1588093273509" duration="12638000" />
+      <workItem from="1588367303072" duration="26358000" />
+      <workItem from="1588595480436" duration="10670000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="211" y="211" width="943" height="345" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog" timestamp="1588601059055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="211" y="211" width="943" height="345" key="#com.intellij.structuralsearch.plugin.ui.StructuralSearchDialog/0.0.1366.768@0.0.1366.768" timestamp="1588601059055" />
+    <state x="184" y="27" key="SettingsEditor" timestamp="1584782658931">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="27" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584782658931" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1587500368379">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.0.1366.768@0.0.1366.768" timestamp="1587500368379" />
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1588595646000">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="209" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1588595646000" />
+    <state x="317" y="79" width="738" height="606" key="find.popup" timestamp="1588626960481">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="317" y="79" width="738" height="606" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1588626960481" />
+    <state x="339" y="174" key="run.anything.popup" timestamp="1588113024628">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1588113024628" />
+    <state x="346" y="89" width="672" height="676" key="search.everywhere.popup" timestamp="1587500411028">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587500411028" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/themes/views/default/header.php</url>
+          <line>96</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/temp/application/modules/admin/controllers/auth_core.php</url>
+          <line>417</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php</url>
+          <line>381</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php</url>
+          <line>391</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php</url>
+          <line>80</line>
+          <properties>
+            <option name="className" value="\Account_core" />
+            <option name="methodName" value="login" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/application/modules/account/controllers/account_core.php</url>
+          <line>357</line>
+          <properties>
+            <option name="className" value="\Account_core" />
+            <option name="methodName" value="register" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

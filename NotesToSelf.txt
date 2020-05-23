@@ -1,0 +1,33 @@
+/*****************/
+bootstrap-theme.css - Controls the main page looks!
+customs.css
+main.css
+home_page_filter_view.php
+autocon.php
+
+
+account_core.php - Line 962(here lies where to fix confirmation email)
+agent_view.php - Agent full details view page.
+agent_properties_view.php - (/index.php/en/show/dealervehicles/1) Dealers properties + Info page
+detail_view.php - (../en/show/printview/, ../en/show/detail/) Page Pimp asked to change. Car listing detail view
+includes_bottom.php - Here is the pop-up box factory
+account_core.php - tune account related functions 
+admin_view.php - audited the 'Dealers, Vehicles totals display' on dashboard
+en.yml - changed 'Bulk Email'to Send Email
+autocon_core.php, users_core.php - changed 'Bulk Email' to Send Email
+all_emails_view.php - changed 'Send Bulk Email' to Send An Email
+navigation.php - Edited 'Autocon' tree menu to 'Car Menu'
+autocon.sql, dbc_posts table - By Default 'feature' was structurally set default of '0'. (Chngd it to '1'; enable cars feature auto)
+
+/** CODEINE Made Autohub not manual approval, rather Automation account confirmed for all new users */
+account_core.php
+Line 392
+
+DB:
+dbc_language - here i adjusted 'Bulk Email' -> 'Send Email', 'Email Tracker' -> 'Inbox'
+
+
+======-Here LIES the UNLOCK-KEY, HACK {AUtoHub}=========
+system/helpers/dbcbase_helper.php
+Line 845 - 846
+ //HACKEDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDomain DOne For Production Version.
